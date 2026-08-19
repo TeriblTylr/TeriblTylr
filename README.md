@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on whatever i have the motivation to work on
 - 🌱 I’m currently learning whatever i have the motivation to learn
 - 📫 How to reach me: my discord is the same as my github
+
+- btw i moved to gitlab because github has a 2fa requirement and every phone i get ends up breaking so im not risking losing access to my stuff.
